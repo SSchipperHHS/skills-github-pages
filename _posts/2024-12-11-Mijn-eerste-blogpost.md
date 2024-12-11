@@ -2,7 +2,7 @@
 title: "Mijn eerste blogpost"
 date: 2024-12-11
 ---
-Het lectoraat LTA vraagt bevlogen en inhoudelijk gedegen medewerkers. Een leerproces om te begrijpen: 
+Het lectoraat LTA vraagt bevlogen en inhoudelijk gedegen medewerkers. Een leerproces is nodig om begrip te krijgen voor: 
 * software-omgevingen als Github,
 * programeertaal als R,
 * ondersteuning als
